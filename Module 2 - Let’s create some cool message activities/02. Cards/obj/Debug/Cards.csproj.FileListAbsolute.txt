@@ -1,0 +1,39 @@
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\Bot Application1.dll.config
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\Bot Application1.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\Bot Application1.pdb
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\Autofac.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\Chronic.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\Microsoft.Bot.Builder.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\Microsoft.Bot.Connector.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\Newtonsoft.Json.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\System.Net.Http.Formatting.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\System.Web.Http.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\System.Web.Http.WebHost.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\Autofac.xml
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\Microsoft.Bot.Builder.xml
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\Microsoft.Bot.Connector.xml
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\Newtonsoft.Json.xml
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\System.IdentityModel.Tokens.Jwt.pdb
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\System.Net.Http.Formatting.xml
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\System.Web.Http.xml
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\System.Web.Http.WebHost.xml
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\obj\Debug\Cards.csprojResolveAssemblyReference.cache
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\obj\Debug\Bot Application1.dll
+C:\Users\selmahdi\Desktop\Module 2 Demos\01. Cool Messages\Cards\Cards\obj\Debug\Bot Application1.pdb
