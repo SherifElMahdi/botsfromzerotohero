@@ -36,7 +36,7 @@ namespace HelloWorld
                 //activity.Text = "<b> Hi Mr Bot </b>";
                 //Activity reply = activity.CreateReply(activity.Text);
 
-                /*Replying with an image as an attachment*/
+                //Replying with an image as an attachment
 
                 Activity reply = activity.CreateReply("replying with an attachemnt from the backscenes");
                 reply.Attachments = new List<Attachment>();
