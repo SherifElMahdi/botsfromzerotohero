@@ -1,0 +1,41 @@
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\obj\Debug\ChocolatesGallery.csprojResolveAssemblyReference.cache
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\obj\Debug\ChocolatesGallery.csproj.CoreCompileInputs.cache
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\obj\Debug\Bot Application.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\obj\Debug\Bot Application.pdb
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\Bot Application.dll.config
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\Bot Application.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\Bot Application.pdb
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\Autofac.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\Chronic.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\Microsoft.Bot.Builder.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\Microsoft.Bot.Connector.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\Newtonsoft.Json.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\System.Net.Http.Formatting.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\System.Web.Http.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\System.Web.Http.WebHost.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\Autofac.xml
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\Microsoft.Bot.Builder.xml
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\Microsoft.Bot.Connector.xml
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\Newtonsoft.Json.xml
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\System.Net.Http.Formatting.xml
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\System.Web.Http.xml
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\System.Web.Http.WebHost.xml
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\selmahdi\Desktop\ChocolatesGallery\ChocolatesGallery\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
