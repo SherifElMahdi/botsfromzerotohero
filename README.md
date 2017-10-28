@@ -1,4 +1,4 @@
-# botsfromzerotohero
+# Developing Intelligent Bots from Zero to Hero
 This repository contains all the code samples of "Developing Intelligent Bots from Zero to Hero" channel9/MVA course.
 
 **Watch the course on Channel9:** Publishing in progress...
