@@ -14,5 +14,5 @@ This repository contains all the code samples of "Developing Intelligent Bots fr
 - [Visual Studio 2015 or higher](https://www.visualstudio.com/downloads/ "Visual Studio 2015 or higher")
 - [Bot Builder SDK for .NET](https://github.com/Microsoft/BotBuilder "Bot Builder SDK for .NET")
 - [Bot Framework Channel Emulator](http://emulator.botframework.com/ "Bot Framework Channel Emulator")
-- [http://aka.ms/bf-bc-vstemplate](http://aka.ms/bf-bc-vstemplate "Bot Project Template for Visual Studio")
+- [Bot Project Template for Visual Studio](http://aka.ms/bf-bc-vstemplate)
 
