@@ -3,8 +3,6 @@ This repository contains all the code samples of "Developing Intelligent Bots fr
 
 **Watch the course:**  [https://aka.ms/botszeroheromva](https://aka.ms/botszeroheromva)
 
-**Course Blog Post:** [https://aka.ms/botszerohero](https://aka.ms/botszerohero)
-
 **Slide Decks:** [https://aka.ms/botdevslidedecks](https://aka.ms/botdevslidedecks)
 
 **Prerequisites** 
